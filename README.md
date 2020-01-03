@@ -12,4 +12,4 @@
 
 6. Added Faker and populate gems to fill database with test data to simulate production, /lib/tasks/populate rake job created
 
-7. Shopping cart integration  -  cartItem and Cart model created
+7. Shopping cart integration  -  ActiveMerchant Integration
